@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+chicken make a lousy house pet 1 ... 2
+=======
 chicken make a lousy house pet
 
 test 4 test 4
+>>>>>>> a6add0de05a202af64f41e265725aefb9bc725df
